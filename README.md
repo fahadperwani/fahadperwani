@@ -62,5 +62,3 @@ Currently, I’m deepening my expertise in <b>Java/Spring Boot microservices, sy
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fahadperwani&show_icons=true&locale=en&layout=compact" alt="fahadperwani" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fahadperwani&show_icons=true&locale=en" alt="fahadperwani" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fahadperwani&" alt="fahadperwani" /></p>
