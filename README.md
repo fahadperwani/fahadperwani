@@ -8,9 +8,6 @@ With 2+ years of experience building <b>scalable web and mobile applications</b>
 I’ve developed distributed backends, integrated secure payments, and deployed production apps on <b>AWS</b> with CI/CD pipelines.  
 Currently, I’m deepening my expertise in <b>Java/Spring Boot microservices, system design, and clean code principles</b>.
 </p>
-
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/4d9f5ecceb711eec6e2018f38a5677dc657c9738d4a65ba3b928c41c0a45b439">
-
 ---
 
 ### 🌱 Currently Learning
